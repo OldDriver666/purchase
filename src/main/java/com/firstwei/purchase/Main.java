@@ -64,6 +64,11 @@ public class Main {
 		bo.setAddOrderQuantity(2000);
 		addOrderList.add(bo);
 		
+//		AddOrderInfo co = new AddOrderInfo();
+//		co.setGoodsName("橘子");
+//		co.setAddOrderQuantity(2000);
+//		addOrderList.add(co);
+		
 //		String path = "d:/";    
 //        String fileName = "test";    
 //        String fileType = "xlsx";    
